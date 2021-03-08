@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# In this lifetime
+## Where I've been
+something about childhood
 
-Feel free to tell the world about what you love! 😍
+## Where I am
+something about college
+
+## Where I'm going
+something about career
